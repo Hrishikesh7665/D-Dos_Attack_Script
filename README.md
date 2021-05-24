@@ -90,13 +90,27 @@ python "D_DosAttack.py"
 **N.B: If You Using Windows Please Use PowerShell Instead Of Command Prompt(CMD) For Best Experience.**
 
 
+
+## ScreenShots
+
+1)
+![](ScreenShots/Screen Shot1.png)
+
+2)
+![](ScreenShots/Screen Shot1.png)
+
+3)
+![](ScreenShots/Screen Shot1.png)
+
+
+
 ## Conclusion & Warnings
 
--`Warning` Your Anti-Virus Software Maybe Detect This Script As Virus. If You Concern About This, Please Check Virus Total Report Before Using This Script. [Click Here](https://www.virustotal.com/gui/file/4426839e04c4902779d09edfbcb26529d975d5ebf59cc093925a129e941dd303/detection) To Check Virus Total Result.
+- `Warning` Your Anti-Virus Software Maybe Detect This Script As Virus. If You Concern About This, Please Check Virus Total Report Before Using This Script. [Click Here](https://www.virustotal.com/gui/file/4426839e04c4902779d09edfbcb26529d975d5ebf59cc093925a129e941dd303/detection) To Check Virus Total Result.
 
--`Warning` Your Public Ip Is Visible To The Internet Use A Proxy or Tor Service To Run The Script.
+- `Warning` Your Public Ip Is Visible To The Internet Use A Proxy or Tor Service To Run The Script.
 
--`Warning` It Is End User's Responsibility To Obey All The Applicable Laws.
+- `Warning` It Is End User's Responsibility To Obey All The Applicable Laws.
 
 
 **Peace ✌️**
