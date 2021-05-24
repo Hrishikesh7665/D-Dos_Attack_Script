@@ -94,13 +94,13 @@ python "D_DosAttack.py"
 ## ScreenShots
 
 1)
-![](ScreenShots/Screen Shot1.png)
+![](ScreenShots/Screen_Shot1.png)
 
 2)
-![](ScreenShots/Screen Shot1.png)
+![](ScreenShots/Screen_Shot2.jpg)
 
 3)
-![](ScreenShots/Screen Shot1.png)
+![](ScreenShots/Screen_Shot3.png)
 
 
 
