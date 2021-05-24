@@ -76,7 +76,6 @@ def get_parameters():
     global thr
     r = requests.get(r'http://jsonip.com')
     PUB_ip= r.json()['ip']
-    print ('Your IP is', PUB_ip)
     print(Fore.MAGENTA,Style.BRIGHT,end="")
     tprint(text="DDOS",font="block")
     print(Fore.GREEN,"D-DOS Attack Script Written In Python 3.9")
